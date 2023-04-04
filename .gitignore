@@ -1,0 +1,4 @@
+node_modules/
+.env
+MONGO DB data.txt
+Documentacion.txt
